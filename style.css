@@ -9,4 +9,6 @@ p{
 .new{
     color: red;
     border: 2px solid blue;
+
+    font-size: 200px;
 }
