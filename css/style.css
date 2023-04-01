@@ -13,3 +13,10 @@ p{
 
     font-size: 200px;
 }
+
+.text{
+    color:blue;
+    border-bottom: 1px solid red;
+    width: 5%;
+    
+}
