@@ -1,3 +1,81 @@
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!mhadesh yl3ab fehom w hab3tloko videos bt2ol ehh dah belzabt !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11*/
+
+/*start global rules */
+
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+.container {               /*eshan el haga tege fe nos el safha w bardo el hagat fe back ground matt2sarsh w temla el shasha kolha | kol el site 3la nafs el mostwa*/
+    /* width: 600px; */
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;    /*kol dah3ashan el noskha bta3et el phone matb2ash el kalam awil el page*/
+    margin-right: auto;  
+}
+
+/* mobile from zero to 768 */
+@media(min-width: 768px) {
+  .container{
+    width: 750px;
+  }
+}
+
+/* medium screen */
+@media(min-width: 992px){
+    .container{
+        width: 970px;
+    }
+}
+
+/* large screens */
+@media(min-width: 1200px){
+    .container{
+        width: 1170px;
+    }
+}
+/*end global rules */
+
+/* tkhtefi fel mobile */
+@media (max-width:767px) {
+    
+ 
+
+}
+/* tzher fel mobile */
+@media (max-width:767px) {
+    
+ 
+
+}
+
+
+/* ==================================================================================================================================================================== */
+
+
+
+
+
+
+
+
+
+
+
+
 div{
     color:red
 }
